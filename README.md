@@ -1,8 +1,10 @@
 # 📄 Cover Letter LLM
 
-A simple Streamlit app that generates a cover letter using the information from an uploaded resume and a job description via any OpenAI compatible model.
+A simple LLM app that generates a cover letter based on the information from an uploaded resume and a job description using any OpenAI compatible model.
 
 Use the Web App [here](https://coverletterllm.streamlit.app/).
+
+![Screenshot of the App](./screenshot.jpg)
 
 ## Usage
 
